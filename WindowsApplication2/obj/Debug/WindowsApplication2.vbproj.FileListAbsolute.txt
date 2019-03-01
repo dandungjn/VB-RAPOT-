@@ -1,0 +1,17 @@
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.Form2.resources
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.Form3.resources
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.Form4.resources
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.Form5.resources
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.Form6.resources
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.Form7.resources
+D:\Sekolah\VB\hitungnilai\WindowsApplication2\obj\Debug\WindowsApplication2.Form8.resources
